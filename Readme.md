@@ -14,6 +14,7 @@ and code from [CppCon 2023](http://cppcon.org).
 - [A Long Journey of Changing std::sort Implementation at Scale](/Presentations/a_long_journey_of_changing_stdsort_implementation_at_scale.pdf) by Danila Kutenin
 - [Advanced SIMD Algorithms in Pictures](/Presentations/Advanced_SIMD_algorithms_in_practice.pdf) by Denis Yaroshevskiy
 - [Advancing cppfront with Modern C++: Refining the Implementation of is, as, and UFCS](/Presentations/Advancing_cppfront_with_Modern_Cpp.pdf) by Filip Sajdak
+- [Back to Basics: Algorithms](/Presentations/B2B_Algorithms.pdf) by Klaus Iglberger
 - [Applicative: The Forgotten Functional Pattern](/Presentations/Applicative-CppCon.pdf) by Ben Deane
 - [Back to Basics: Concurrency](/Presentations/B2B-Concurrency.pdf) by David Olsen
 - [Back to Basics: Debugging](/Presentations/Lifetime_Safety_in_Cpp.pdf) by Greg Law
