@@ -17,7 +17,7 @@ and code from [CppCon 2023](http://cppcon.org).
 - [Back to Basics: Algorithms](/Presentations/B2B_Algorithms.pdf) by Klaus Iglberger
 - [Applicative: The Forgotten Functional Pattern](/Presentations/Applicative-CppCon.pdf) by Ben Deane
 - [Back to Basics: Concurrency](/Presentations/B2B-Concurrency.pdf) by David Olsen
-- [Back to Basics: Debugging](/Presentations/Lifetime_Safety_in_Cpp.pdf) by Greg Law
+- [Back to Basics: Debugging](/Presentations/B2B_Debugging_CppCon_2023.pdf) by Greg Law
 - [Back to Basics: Forwarding References](/Presentations/B2B_Forwarding_References.pdf) by Mateusz Pusz
 - [Back to Basics: Functions](/Presentations/Back_to_Basics_Functions_cppcon_2023.pdf) by Mike Shah
 - [Back to Basics: Iterators](/Presentations/B2B_Iterators.pdf) by Nicolai Josuttis
