@@ -41,7 +41,7 @@ and code from [CppCon 2023](http://cppcon.org).
 - [Cooperative C++ Evolution – Toward a Typescript for C++](/Presentations/Cooperative_cpp_evolution_CppCon_2023_-_Sutter.pdf) by Herb Sutter
 - [Coping With Other People's Code](/Presentations/Coping_with_Other_Peoples_Code-Savino-CppCon_2023.pdf) by Laura Savino
 - [Coroutine Patterns and How to Use Them: Problems and Solutions Using Coroutines In a Modern Codebase](/Presentations/coroutine_patterns.pdf) by Francesco Zoffoli
-- [Customization Methods: Connecting User and Library Code](/Presentations/Expressive_Compile-time_Parsers_-_Alon_Wolf.pdf) by Inbal Levi
+- [Customization Methods: Connecting User and Library Code](/Presentations/CustomizationPointsConnectingUserAndLibraryCode_CppCon_2023.pdf) by Inbal Levi
 - [Delivering Safe C++](/Presentations/Plenary_Delivering_Safe_Cpp.pdf) by Bjarne Stroustrup
 - [Designing Fast and Efficient List-like Data Structures](/Presentations/Designing_Fast_and_Efficient_List_like_Data_Structures.pdf) by Yannic Bonenberger
 - [Effective Ranges: A Tutorial for Using C++2x Ranges](/Presentations/effective_ranges_cppcon2023.pdf) by Jeff Garland
@@ -50,7 +50,7 @@ and code from [CppCon 2023](http://cppcon.org).
 - [Exceptionally Bad : The Story on the Misuse of Exceptions and How to Do Better](/Presentations/exceptionally_bad.pdf) by Peter Muldoon
 - [Exploration of Strongly-typed Units: A Case Study from Digital Audio](/Presentations/Exploration_of_Strongly-typed_Units_v4_Roth_Michaels_CppCon_2023.pdf) by Roth Michaels
 - [Express Your Expectations: A Fast, Compliant JSON Pull Parser for Writing Robust Applications](/Presentations/Express_your_expectations.pdf) by Jonathan Müller
-- [Expressive Compile-time Parsers](/Presentations/CustomizationPointsConnectingUserAndLibraryCode_CppCon_2023.pdf) by Alon Wolf
+- [Expressive Compile-time Parsers](/Presentations/Expressive_Compile-time_Parsers_-_Alon_Wolf.pdf) by Alon Wolf
 - [File I/O for Game Developers: Past, Present, and Future](/Presentations/File_IO_for_game_developers_Past_present_and_future.pdf) by Guy Davidson
 - [From Your First Line of Code to Your Largest Repo: How Visual Studio Code Can Help You Develop More Efficiently in C++](/Presentations/VS_Code_CppCon_2023.pdf) by Alexandra Kemper & Sinem Akinci
 - [Getting Started with C++](/Presentations/B2B_Getting_Started_with_Cpp.pdf) by Michael Price
