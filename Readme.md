@@ -54,6 +54,7 @@ and code from [CppCon 2023](http://cppcon.org).
 - [File I/O for Game Developers: Past, Present, and Future](/Presentations/File_IO_for_game_developers_Past_present_and_future.pdf) by Guy Davidson
 - [From Your First Line of Code to Your Largest Repo: How Visual Studio Code Can Help You Develop More Efficiently in C++](/Presentations/VS_Code_CppCon_2023.pdf) by Alexandra Kemper & Sinem Akinci
 - [Getting Started with C++](/Presentations/B2B_Getting_Started_with_Cpp.pdf) by Michael Price
+- [Higher-Order Template Metaprogramming (Lightning Talk)](/Presentations/higher_order_template_metaprogramming.pdf) by Ed Catmur
 - [How to Build Your First C++ Automated Refactoring Tool](/Presentations/How_to_build_your_first_cpp_automated_refactoring_tool_CppCon_2023.pdf) by Kristen Shaker
 - [Is std::mdspan a Zero-overhead Abstraction?](/Presentations/Is_std__mdspan_a_Zero-overhead_Abstraction.pdf) by Oleksandr Bacherikov
 - [Iteration Revisited: A safer iteration model for C++](/Presentations/iteration_revisited_cppcon.pdf) by Tristan Brindle
