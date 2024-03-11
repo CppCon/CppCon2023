@@ -80,6 +80,7 @@ and code from [CppCon 2023](http://cppcon.org).
 - [std::simd: How to Express Inherent Parallelism Efficiently Via Data-parallel Types](/Presentations/stdsimd_how_to_express_inherent_parallelism_efficiently_via_data_parallel_types.pdf) by Matthias Kretz
 - [Symbolic Calculus for High-performance Computing From Scratch Using C++23](/Presentations/Symbolic_Calculus_for_High_Performance_Computing_from_Scratch_using_Cpp23_CppCon_2023_Vincent_Reverdy.pdf) by Vincent Reverdy
 - [Taro: Task graph-based Asynchronous Programming Using C++ Coroutine](/Presentations/taro_cppcon_2023.pdf) by Dian-Lun Lin
+- [Tracy: A Profiler You Don't Want to Miss](/Presentations/Tracy_Profiler_2024.pdf) by Marcos Slomp
 - [The Absurdity of Error Handling: Finding a Purpose for Errors in Safety-Critical SYCL](/Presentations/Absurdity_of_Error_Handling.pdf) by Erik Tomusk
 - [The Au Library: Handling Physical Units Safely, Quickly, and Broadly](/Presentations/The_Au_library.pdf) by Chip Hogg
 - [Things Happening in SG14…](/Presentations/Things_happening_in_SG14) by Patrice Roy
